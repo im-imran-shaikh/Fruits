@@ -1,17 +1,21 @@
 The following fruits are yummy
 
 Mango
+papaya
 Apple
-
+pear
 
 Watermellon
 PineApple
+banana
 
 Done with Watermellon and Pine apple
 Thank you!!!
 
 done with master branch
 Thank y0u !!!
+
+imran is using this fruit class
 
 Testing test branch
 
